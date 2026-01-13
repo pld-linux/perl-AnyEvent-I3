@@ -1,7 +1,7 @@
 Summary:	AnyEvent::I3 - Communicate with the i3 window manager
 Name:		perl-AnyEvent-I3
 Version:	0.17
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
