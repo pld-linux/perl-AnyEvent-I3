@@ -1,12 +1,12 @@
 Summary:	AnyEvent::I3 - Communicate with the i3 window manager
 Name:		perl-AnyEvent-I3
-Version:	0.17
-Release:	2
+Version:	0.19
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/AnyEvent/AnyEvent-I3-%{version}.tar.gz
-# Source0-md5:	907b6ed7fe6bea5914b878cdd73aba3f
+Source0:	https://www.cpan.org/authors/id/M/MS/MSTPLBG/AnyEvent-I3-%{version}.tar.gz
+# Source0-md5:	52307413b05bafc419d95106f125d122
 URL:		http://search.cpan.org/dist/AnyEvent-I3/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
